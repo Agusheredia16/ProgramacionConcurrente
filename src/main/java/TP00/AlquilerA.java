@@ -1,4 +1,4 @@
-package TP0_Ej1;
+package TP00;
 /*
 @author agush
  */
