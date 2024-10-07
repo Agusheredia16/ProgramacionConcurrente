@@ -11,7 +11,7 @@ public class Rueda {
             Thread.sleep(1250);
         } catch (InterruptedException e) {
         }
-        System.out.println(Thread.currentThread().getName() + " ha terminado de comer");
+        System.out.println(Thread.currentThread().getName() + " ha terminado de correr");
         return 1;
     }
 }
