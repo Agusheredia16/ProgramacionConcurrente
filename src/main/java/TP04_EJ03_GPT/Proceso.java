@@ -1,4 +1,4 @@
-package TP04_EJ03;
+package TP04_EJ03_GPT;
 
 /*
 @author agush
